@@ -1,5 +1,5 @@
 ---
-title: "공분산 행렬 Shrinkage 추정 완벽 정리: Linear에서 Nonlinear까지"
+title: "공분산 행렬 Shrinkage 추정 정리"
 date: 2026-07-09 20:00:00 +0900
 categories: [Statistics, Finance]
 tags: [shrinkage, covariance-matrix, random-matrix-theory, portfolio-optimization, ledoit-wolf]
