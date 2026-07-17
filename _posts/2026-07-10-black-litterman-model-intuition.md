@@ -349,7 +349,7 @@ $$ \Lambda = A^{-1}\left[\frac{Q}{\delta} - \frac{P\Sigma}{1+\tau}w_{eq}\right] 
 또한 위험회피계수가 $\hat\delta$ 인 다른 투자자의 포트폴리오는 다음과 같이 단순히 스케일링해서 얻을 수 있다.
 
 $$ \hat w^{*} = \frac{\delta}{\hat\delta}\, w^{*} $$
-
+`
 목표 변동성이 $\sigma$ 인 투자자의 포트폴리오도 마찬가지다.
 
 $$ \tilde w^{*} = \frac{\sigma\delta}{\sqrt{\bar\mu^\top \bar\Sigma^{-1} \bar\mu}}\; w^{*} $$
